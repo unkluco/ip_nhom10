@@ -1,1 +1,1 @@
-# ip_nhom10
+### Nơi nộp các bài tiểu luận xử lý ảnh nhóm 10
